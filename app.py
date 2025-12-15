@@ -198,7 +198,7 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
-# --- STYLING ---
+# --- STYLING w---
 st.markdown("""
 <style>
     .stApp { background-color: #f8f9fa; font-family: 'Segoe UI', sans-serif; }
